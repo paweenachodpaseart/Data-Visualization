@@ -13,3 +13,4 @@ Here are 5 images showcasing the Dashboard:
 <img src="https://github.com/user-attachments/assets/a1b72590-99fe-41ec-b42d-7f6d721fec89" width="500" />
 <img src="https://github.com/user-attachments/assets/0c33abe3-a948-4e2a-9218-20b547e08d86" width="500" />
 <img src="https://github.com/user-attachments/assets/d360cae8-7eff-4bed-bee9-8a7f81581e25" width="500" />
+[See more](https://github.com/your-username/your-repository/blob/main/your-file-path)
